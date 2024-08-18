@@ -10,6 +10,7 @@ Feel free to explore and check out the code. Whether you're a fellow developer, 
 ## Project Contents
 <img src="https://github.com/user-attachments/assets/55d4b6bd-f263-46dc-8a2d-998fb7f48654" width="30" height="25" />
 Rock Paper Scisors (vs Computer)<br>
+
 <img src="https://github.com/user-attachments/assets/55d4b6bd-f263-46dc-8a2d-998fb7f48654" width="30" height="25" />
 Rock Paper Scisors (vs Computer)
 
